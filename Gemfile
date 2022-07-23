@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
+
+ruby '>= 3'
+
 gem 'sinatra', ">= 2.2"
 gem 'puma', ">= 5.6"
